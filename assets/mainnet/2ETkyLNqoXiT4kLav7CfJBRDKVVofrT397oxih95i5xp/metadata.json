@@ -1,0 +1,20 @@
+{
+  "name": "RocketSloth",
+  "symbol": "RSLT",
+  "description": "RocketSloth ($RSLT) — meme coin on Solana. Mint: 2ETkyLNqoXiT4kLav7CfJBRDKVVofrT397oxih95i5xp.",
+  "image": "https://raw.githubusercontent.com/RocketSlothDev/rocketsloth-assets/main/assets/mainnet/2ETkyLNqoXiT4kLav7CfJBRDKVVofrT397oxih95i5xp/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/RocketSlothDev/rocketsloth-assets/main/assets/mainnet/2ETkyLNqoXiT4kLav7CfJBRDKVVofrT397oxih95i5xp/logo.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://rocketsloth.dev",
+    "twitter": "https://x.com/RocketSlothRSLT",
+    "telegram": "https://t.me/RocketSloth"
+  },
+  "tags": ["solana","meme","rocketsloth"]
+}
