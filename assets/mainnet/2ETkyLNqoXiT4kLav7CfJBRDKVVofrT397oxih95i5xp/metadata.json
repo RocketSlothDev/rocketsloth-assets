@@ -1,20 +1,17 @@
 {
   "name": "RocketSloth",
   "symbol": "RSLT",
-  "description": "RocketSloth ($RSLT) — meme coin on Solana. Mint: 2ETkyLNqoXiT4kLav7CfJBRDKVVofrT397oxih95i5xp.",
+  "description": "RocketSloth (RSLT) — the chillest meme coin on Solana. We move slow… until we moon 🚀🦥.",
   "image": "https://raw.githubusercontent.com/RocketSlothDev/rocketsloth-assets/main/assets/mainnet/2ETkyLNqoXiT4kLav7CfJBRDKVVofrT397oxih95i5xp/logo.png",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/RocketSlothDev/rocketsloth-assets/main/assets/mainnet/2ETkyLNqoXiT4kLav7CfJBRDKVVofrT397oxih95i5xp/logo.png",
-        "type": "image/png"
-      }
-    ]
-  },
+  "external_url": "https://rocketsloth.io",
+  "attributes": [
+    { "trait_type": "Vibe", "value": "Ultra Chill" },
+    { "trait_type": "Transport", "value": "Rocket Backpack" },
+    { "trait_type": "Meme Power", "value": "Over 9000" },
+    { "trait_type": "Community", "value": "Degens & Sloths" }
+  ],
   "extensions": {
-    "website": "https://rocketsloth.dev",
     "twitter": "https://x.com/RocketSlothRSLT",
     "telegram": "https://t.me/RocketSloth"
-  },
-  "tags": ["solana","meme","rocketsloth"]
+  }
 }
