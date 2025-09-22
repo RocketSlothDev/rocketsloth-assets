@@ -1,1 +1,17 @@
-
+{
+  "name": "RocketSloth",
+  "symbol": "RSLT",
+  "description": "RocketSloth (RSLT)  the chillest meme coin on Solana. We move slow until we moon .",
+  "image": "https://raw.githubusercontent.com/RocketSlothDev/rocketsloth-assets/main/assets/mainnet/A2orqVJJVhSTr61dUvRWciTduc3TaZMZADJxmK4UWfGJ/logo.png",
+  "external_url": "https://rocketsloth.io",
+  "attributes": [
+    { "trait_type": "Vibe", "value": "Ultra Chill" },
+    { "trait_type": "Transport", "value": "Rocket Backpack" },
+    { "trait_type": "Meme Power", "value": "Over 9000" },
+    { "trait_type": "Community", "value": "Degens & Sloths" }
+  ],
+  "extensions": {
+    "twitter": "https://x.com/RocketSlothRSLT",
+    "telegram": "https://t.me/RocketSloth"
+  }
+}
