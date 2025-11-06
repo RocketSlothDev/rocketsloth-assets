@@ -12,6 +12,25 @@
   ],
   "extensions": {
     "twitter": "https://x.com/RocketSlothRSLT",
-    "telegram": "https://t.me/RocketSloth"
+    "telegram": "https://t.me/RocketSloth",
+    "locks": [
+      {
+        "title": "Team Vesting 2026",
+        "amount_locked": "1500153898650.6143 RSLT",
+        "unlock_schedule": "Monthly unlocks from Dec 2026 to Dec 2027",
+        "next_unlock": "2027-01-30T10:11:00+01:00",
+        "recipient": "CzDSy1hEoyMGhFV",
+        "platform": "Jupiter Lock",
+        "proof": "https://lock.jup.ag/escrow/DaTy8YB9TWT66LtKUSk2uResedKQZhAm4bdmqWFjFY5H"
+      },
+      {
+        "title": "Reserve Lock 2026",
+        "amount_locked": "230000000000 RSLT",
+        "unlock_date": "2026-12-31T00:00:00+01:00",
+        "recipient": "CzDSy1hEoyMGhFV",
+        "platform": "Streamflow Finance",
+        "proof": "https://app.streamflow.finance/contract/solana/mainnet/7FFyk5ysLuFodzyCemEso4o5RNCU1QBjdrFbV5njvAkk"
+      }
+    ]
   }
 }
